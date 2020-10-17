@@ -10,7 +10,6 @@ CakePHP versão 3.8
   
 ### Banco de dados
   - Altere as configurações do banco em config/app.php linha 266
-  - Banco de dados MySQL
   - Arquivo SQL do banco disponível em config/migrations/login.sql
 
 ### Envio de email
