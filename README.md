@@ -1,19 +1,19 @@
 # login-cakephp
 Repositório template de login
 
-# Versão
+### Versão
 CakePHP versão 3.8
 
-# Recursos
+### Recursos
   - AdminLTE
   - Fontawesome
   
-# Banco de dados
+### Banco de dados
   - Altere as configurações do banco em config/app.php linha 266
   - Banco de dados MySQL
   - Arquivo SQL do banco disponível em config/migrations/login.sql
 
-# Envio de email
+### Envio de email
   - Descomente e altere as configurações de envio de email em src/Controller/LoginController.php
   
 # CakePHP Application Skeleton
